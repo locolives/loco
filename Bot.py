@@ -209,4 +209,3 @@ async def on_message():
                     users[userName.id]["payment"]
                     )
                 )
-client.login(process.env.NTMwNTUxOTAxNDA2ODg3OTQ2.DxEEuA.RDaP6Pm5u9qELNWyn8svQSIYLMQ);
